@@ -8,6 +8,8 @@ Sample todo list app using mvvm and sqlite database
 
 
 ## Prerequisite
+- [Getting Started](#Getting)
+- [Libraries](#Libraries)
 
 ## Related Resources
 
