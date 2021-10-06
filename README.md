@@ -11,6 +11,10 @@ Sample todo list app using mvvm and sqlite database
 - [Getting Started](#Getting)
 - [Libraries](#Libraries)
 
+### Getting Started
+
+### Libraries
+
 ## Related Resources
 
 ### Screenshots
