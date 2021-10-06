@@ -20,3 +20,4 @@ Sample todo list app using mvvm and sqlite database
 ### Screenshots
 
 ## Contributors
+- [Brian Mugo](https://github.com/brayomugo15)
